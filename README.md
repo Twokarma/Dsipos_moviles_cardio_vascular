@@ -1,12 +1,32 @@
 # app_cardibascular
+
 # 🫀 Sistema de Gestión Cardiovascular
 
 Aplicación móvil desarrollada con Flutter y Dart, utilizando GetX para la gestión del estado y la organización de la lógica de la aplicación.
 
 ## 📌 Descripción del proyecto
 
-El fin de la aplicación es el poder predecir y alertar al usuario si podra desarrollar alguna enfermedad cardiovascular o esta entrando en un cuadro. 
+El Sistema de Gestión Cardiovascular es una aplicación móvil orientada al seguimiento y análisis de indicadores relacionados con la salud cardiovascular del usuario.
 
+Su finalidad es permitir el registro y seguimiento de mediciones cardiovasculares, visualizar su evolución mediante gráficas y proporcionar alertas que ayuden a identificar posibles señales de riesgo o alteraciones en los indicadores registrados.
+
+La aplicación busca facilitar el monitoreo de estos datos y brindar información que permita al usuario estar más atento a su salud cardiovascular.
+
+Importante: La aplicación tiene fines de seguimiento y orientación; sus resultados no sustituyen un diagnóstico ni una evaluación médica profesional.
+
+
+## Tecnologías utilizadas
+- Flutter / Dart
+- GetX (estado, rutas e inyección de dependencias)
+- Google Sign-In (autenticación)
+- Google Drive API (almacenamiento de datos)
+- fl_chart (gráficas)
+
+## Arquitectura
+El proyecto sigue una separación por capas:
+presentation → application → data → models
+Las vistas solo muestran información, los controllers manejan el estado,
+y los servicios/repositorios acceden a los datos externos.
 
 ## 🚀 Tecnologías utilizadas
 
@@ -100,7 +120,7 @@ flutter build apk --release
 
 ## 📸 Capturas de pantalla
 
-![ejemplo](app_cardibascular/lib/assets/images/example.jpg.jpg)
+![Ejemplo](app_cardibascular/lib/assets/images/example.jpg)
 
 ## 👥 Autores
 
