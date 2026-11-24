@@ -21,6 +21,9 @@ El fin de la aplicación es el poder predecir y alertar al usuario si podra desa
 ```bash
 lib/
 ├── main.dart
+├── assets
+│   └──docs
+│   └──images
 ├── models/
 │   └── registro_model.dart
 ├── data/
@@ -94,3 +97,12 @@ Para generar un APK:
 ```bash
 flutter build apk --release
 ```
+
+## 👥 Autores
+
+- [Nombre del integrante 1]
+- [Nombre del integrante 2]
+
+## 📄 Licencia
+
+Proyecto desarrollado con fines académicos.
