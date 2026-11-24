@@ -100,7 +100,7 @@ flutter build apk --release
 
 ## 📸 Capturas de pantalla
 
-![ejemplo](app_cardibascular/lib/assets/images/Zl-J273hVmzmFDYBuJg1QrYO-7nESIiTfTkduz-qVn0ovG8U1B7O0ZhaPgN9Bpx9zQpYoPHNfCDNHKTe5sCJxk6c6ro5EsZersQ6hLSgYGH3rMi-_UAq-F4GfNOZihgOkG91_zOaFLK8ebtkqtC-gq1H0qG_dRnKCgL0j2g.jpg)
+![ejemplo](app_cardibascular/lib/assets/images/example.jpg.jpg)
 
 ## 👥 Autores
 
