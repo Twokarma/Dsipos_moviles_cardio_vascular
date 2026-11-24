@@ -4,10 +4,10 @@
 Aplicación móvil desarrollada con Flutter y Dart, utilizando GetX para la gestión del estado y la organización de la lógica de la aplicación.
 
 ## 📌 Descripción del proyecto
-`
+
 El fin de la aplicación es el poder predecir y alertar al usuario si podra desarrollar alguna enfermedad cardiovascular o esta entrando en un cuadro. 
 
-`
+
 ## 🚀 Tecnologías utilizadas
 
 - **Flutter:** Framework para el desarrollo multiplataforma.
@@ -18,6 +18,7 @@ El fin de la aplicación es el poder predecir y alertar al usuario si podra desa
 
 ## 📂 Estructura del proyecto
 
+```bash
 lib/
 ├── main.dart
 ├── models/
@@ -46,6 +47,8 @@ lib/
         ├── grafica_rueda.dart
         ├── grafica_lineal.dart
         └── tarjeta_dato.dart
+```
+
 
 ## ⚙️ Requisitos previos
 
